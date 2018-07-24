@@ -1,0 +1,184 @@
+
+table#style {
+font-size: 9px;
+padding: 2px 2px 0 4px;
+height: 19px;
+}
+table#style tr td {
+text-align:left;
+padding-right: 1px;
+}
+
+table#style input {
+font-size: 9px;
+border-top-left-radius: 8px 18px;
+-webkit-top-left-radius: 8px 18px;
+-moz-border-radius-topleft: 8px 18px;
+border-bottom-right-radius: 8px 18px;
+-webkit-bottom-right-radius: 8px 18px;
+-moz-border-radius-bottomright: 8px 18px;
+height: 14px;
+min-width: 40px;
+margin: 0;
+padding: 0 3px 2px 3px;
+}
+
+input#style-limonkowy {
+color: #15200A;
+border: 1px solid #85C842;
+background-color: #75B03A;
+}
+input#style-limonkowy:hover {
+border-color: #55802A;
+background-color: #A5F852;
+}
+
+input#style-niebieski {
+color: #000040;
+border: 1px solid #768298;
+background-color: #4652c8;
+}
+input#style-niebieski:hover {
+border-color: #2632a8;
+background-color: #7682f8;
+}
+
+input#style-eozyna {
+color: #400000;
+border: 1px solid #987682;
+background-color: #c84652;
+}
+input#style-eozyna:hover {
+border-color: #a82632;
+background-color: #f87682;
+}
+
+input#style-morskazielen {
+color: #004000;
+border: 1px solid #769882;
+background-color: #46c852;
+}
+input#style-morskazielen:hover {
+border-color: #26a832;
+background-color: #76f882;
+}
+
+input#style-ametystowy {
+color: #150A20;
+border: 1px solid #8542C8;
+background-color: #753AB0;
+}
+input#style-ametystowy:hover {
+border-color: #552A80;
+background-color: #A552F8;
+}
+
+input#style-ugier {
+color: #20150A;
+border: 1px solid #C88542;
+background-color: #B0753A;
+}
+input#style-ugier:hover {
+border-color: #80552A;
+background-color: #F8A552;
+}
+
+input#style-patynowy {
+color: #0A2015;
+border: 1px solid #42C885;
+background-color: #3AB075;
+}
+input#style-patynowy:hover {
+border-color: #2A8055;
+background-color: #52F8A5;
+}
+
+input#style-rubinowy {
+color: #200A15;
+border: 1px solid #C84285;
+background-color: #B03A75;
+}
+input#style-rubinowy:hover {
+border-color: #802A55;
+background-color: #F852A5;
+}
+
+input#style-mysi {
+color: #202020;
+border: 1px solid #C7C7C7;
+background-color: #B0B0B0;
+}
+input#style-mysi:hover {
+border-color: #808080;
+background-color: #F7F7F7;
+}
+
+input#style-siarkowy {
+color: #18180E;
+border: 1px solid #9B9B58;
+background-color: #89894D;
+}
+input#style-siarkowy:hover {
+border-color: #636338;
+background-color: #C1C16D;
+}
+
+input#style-biskupi {
+color: #180E18;
+border: 1px solid #9B589B;
+background-color: #894D89;
+}
+input#style-biskupi:hover {
+border-color: #633863;
+background-color: #C16DC1;
+}
+
+input#style-lazurowy {
+color: #0A1520;
+border: 1px solid #4285C8;
+background-color: #3A75B0;
+}
+input#style-lazurowy:hover {
+border-color: #2A5580;
+background-color: #52A5F8;
+}
+
+input#style-srebrny {
+color: #151515;
+border: 1px solid #858585;
+background-color: #757575;
+}
+input#style-srebrny:hover {
+border-color: #555555;
+background-color: #A5A5A5;
+}
+
+input#style-zloty {
+color: #1B1B09;
+border: 1px solid #ABAB39;
+background-color: #969632;
+}
+input#style-zloty:hover {
+border-color: #6D6D24;
+background-color: #D4D446;
+}
+
+input#style-stalowy {
+color: #111111;
+border: 1px solid #6A6A6A;
+background-color: #5D5D5D;
+}
+input#style-stalowy:hover {
+border-color: #444444;
+background-color: #848484;
+}
+
+input#style-turkusowy {
+color: #091B1B;
+border: 1px solid #39ABAB;
+background-color: #329696;
+}
+input#style-turkusowy:hover {
+border-color: #246D6D;
+background-color: #46D4D4;
+}
